@@ -28,6 +28,9 @@ header {
     position: relative;
     font-size: 30px;
 }
+.palke {
+    width: 100%;
+}
 main {
     padding-top: 50px;
     padding-left: 50px;
