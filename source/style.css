@@ -7,11 +7,12 @@ a {
 }
 body {
     font-family: 'Montserrat Alternates', sans-serif;
-    max-width: 1700px;
+    max-width: 1650px;
     max-height: 2px;
 }
 
 header {
+    width: 1600px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -62,9 +63,10 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    position: relative;
-    width: 1638px;
-    height: 120px;
+    position: fixed;
+    margin: 0 auto;
+    width: 1646px;
+    height: 130px;
     left: -10px;
     background: #000000;
     color:white;
